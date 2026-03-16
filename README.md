@@ -1,6 +1,6 @@
 ### Hi there, I'm [Wiraa](wiraananda.vercel.app)👋
 
-- 🌱 I'm currently learning **Software Developing and Graphic Design**
+- 🌱 I'm currently learning **Software Engineering and Graphic Design**
 - 📫 How to reach me **ur.wiraananda@gmail.com**
 - 📄 Check my portfolio [here](s.id/wira-portfolio)
 
