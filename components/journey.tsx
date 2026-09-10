@@ -57,14 +57,14 @@ const dataJourney = [
     year: "Early 2026 - Now (Remote)",
     iconLink: "https://avatars.githubusercontent.com/u/124908725?s=280&v=4",
     description:
-      "Berfokus pada pengembangan Company Management System secara end-to-end, mencakup fitur employees, department, position, RBAC, dan loan. Terlibat dalam perancangan flow fitur, implementasi front-end dan back-end, integrasi data, testing, maintenance, serta penyempurnaan fitur agar sistem internal perusahaan lebih terstruktur dan mudah digunakan.",
+      "Berfokus pada pengembangan Company Management System secara end-to-end, mencakup fitur employees, department, position, RBAC, external parties, dan loan. Terlibat dalam perancangan flow fitur, implementasi front-end dan back-end, integrasi data, testing, maintenance, serta penyempurnaan fitur agar sistem internal perusahaan lebih terstruktur dan mudah digunakan.",
   },
   {
     id: 5,
-    title: "Makongsi Capital Indonesia",
+    title: "MAW Group",
     subtitle: "Full-Stack Developer",
     year: "Early 2026 - Now (Onsite)",
-    iconLink: "./img/kspps-ski.jpg",
+    iconLink: "./img/maw-group.png",
     description:
       "Berfokus pada pengembangan website company profile secara full-stack, termasuk proyek Safar dan Rumsy. Mengerjakan implementasi tampilan berdasarkan kebutuhan bisnis, pengelolaan struktur halaman, integrasi data, optimasi UI, serta penyesuaian fitur agar website tampil profesional, responsif, dan mudah dikelola.",
   },
