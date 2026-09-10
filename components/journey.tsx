@@ -17,8 +17,7 @@ const dataJourney = [
     title: "Metrotech Digital Asia",
     subtitle: "Front-End Engineer",
     year: "Early 2025",
-    iconLink:
-      "https://media.licdn.com/dms/image/v2/D560BAQEFulCNZO5M9w/company-logo_200_200/company-logo_200_200/0/1726042455183/metrotech_digital_asia_logo?e=1784764800&v=beta&t=isd2n8qaITz671Ndv-UFs0zG2F6_UfPOkuRzGK1Hyyo",
+    iconLink: "./img/pt-metrotech-digital-asia.jpeg",
     description:
       "Mengembangkan UI responsif dan reusable components pada Metro Try Out System, mengoptimalkan autentikasi OAuth/JWT, sehingga sistem ujian berjalan stabil, efisien, dan pengalaman pengguna konsisten.",
   },
